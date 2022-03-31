@@ -1,2 +1,3 @@
 rootProject.name = "RxSample"
 include ':app'
+include ':rxbledemo'
