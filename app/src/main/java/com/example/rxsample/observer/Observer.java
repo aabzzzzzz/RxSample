@@ -1,4 +1,4 @@
-package com.example.rxsample;
+package com.example.rxsample.observer;
 
 // TODO 抽象层 观察者
 public interface Observer {

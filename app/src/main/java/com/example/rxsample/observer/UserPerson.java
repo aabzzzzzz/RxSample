@@ -1,4 +1,6 @@
-package com.example.rxsample;
+package com.example.rxsample.observer;
+
+import com.example.rxsample.observer.Observer;
 
 // 观察者 实现
 public class UserPerson implements Observer {

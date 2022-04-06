@@ -1,4 +1,7 @@
-package com.example.rxsample;
+package com.example.rxsample.observer;
+
+import com.example.rxsample.observer.Observable;
+import com.example.rxsample.observer.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
